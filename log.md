@@ -36,6 +36,15 @@
 **Link(s) to work**: [Yummy Timestamps](https://yummy-timestamps.herokuapp.com/) Timestamp Microservice for FreeCodeCamp
 [Yummy Timestamps GitHub Repo](https://github.com/maxveldink/fcc-timestamp-microservice)
 
+### Day 4: January 2, 2017
+
+**Today's Progress**: Finished up the Request Headers FCC challenge and started working on the next FCC challenge, a URL Shortener. Tomorrow looks like a dive into Mongo.
+
+**Thoughts**: Did some good work with Request Headers today. Because there's so many different types, I had always been reticient about using them. This challenge helped quell some of that fear. I also started working on using MongoDB with my next FCC challenge, a URL Shortener. I'm looking forward to working with DBs more.
+
+**Link(s) to work**: [Yummy Request Headers](https://yummy-request-headers.herokuapp.com/) Request Header Parser Microservice for FreeCodeCamp
+[Yummy Timestamps GitHub Repo](https://github.com/maxveldink/fcc-request-header-parser)
+
 
 
 
