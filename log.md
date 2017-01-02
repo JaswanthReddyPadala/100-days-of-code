@@ -26,3 +26,18 @@
 
 **Link(s) to work**: [Yummy Timestamps](https://yummy-timestamps.herokuapp.com/) Timestamp Microservice for FreeCodeCamp
 [Yummy Timestamps GitHub Repo](https://github.com/maxveldink/fcc-timestamp-microservice)
+
+### Day 3: January 1, 2017
+
+**Today's Progress**: Finished the front end of Yummy Timestamps, and marked that project complete in Free Code Camp! Also watched more of Wes Bos' React for Beginner series.
+
+**Thoughts**: I got to implement some Flexbox, very little but it's the first time I've really worked with it. Pretty slow day, CSS definitely isn't my strong suit. But that's the point of these exercises!
+
+**Link(s) to work**: [Yummy Timestamps](https://yummy-timestamps.herokuapp.com/) Timestamp Microservice for FreeCodeCamp
+[Yummy Timestamps GitHub Repo](https://github.com/maxveldink/fcc-timestamp-microservice)
+
+
+
+
+
+
