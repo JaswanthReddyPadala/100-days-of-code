@@ -43,7 +43,15 @@
 **Thoughts**: Did some good work with Request Headers today. Because there's so many different types, I had always been reticient about using them. This challenge helped quell some of that fear. I also started working on using MongoDB with my next FCC challenge, a URL Shortener. I'm looking forward to working with DBs more.
 
 **Link(s) to work**: [Yummy Request Headers](https://yummy-request-headers.herokuapp.com/) Request Header Parser Microservice for FreeCodeCamp
-[Yummy Timestamps GitHub Repo](https://github.com/maxveldink/fcc-request-header-parser)
+
+### Day 5: January 3, 2017
+
+**Today's Progress**: I spent all of my time figuring out how to use MongoDB from within an Express JS app.
+
+**Thoughts**: It took a while, but I finally figured out some basics for working with MongoDB on my URL Shortener. MLab is a lifesaver. Tomorrow I'm going to be shooting for starting on the actual user stories for the challenge.
+
+**Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
+[Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
 
 
 
