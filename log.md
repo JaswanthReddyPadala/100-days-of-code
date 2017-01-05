@@ -53,8 +53,11 @@
 **Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
 [Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
 
+### Day 6: January 4, 2017
 
+**Today's Progress**: Worked more on Wes Bos' React for Beginners course. Applied the Firebase learning to the URL shortener.
 
+**Thoughts**: I wanted to compare implementation of Firebase and MongoDB to see which I would like better.
 
-
-
+**Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
+[Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
