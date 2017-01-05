@@ -61,3 +61,12 @@
 
 **Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
 [Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
+
+### Day 7: January 5, 2017
+
+**Today's Progress**: Worked more on Wes Bos' React for Beginners course and worked through some Video Challenges at FreeCodeCamp.com.
+
+**Thoughts**: I was so caught up in finishing tutorials today, but ran out of free time to actually write code. Tomorrow morning, I'll start working on the URL Shortener once more!
+
+**Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
+[Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
