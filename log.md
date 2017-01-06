@@ -70,3 +70,12 @@
 
 **Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
 [Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
+
+### Day 8: January 6, 2017
+
+**Today's Progress**: Worked more on Wes Bos' React for Beginners course and worked through some Video Challenges at FreeCodeCamp.com.
+
+**Thoughts**: An addendum I'm adding to the rules, while I work through these tutorials (I work better when I don't have large gaps in completing tutorials), is to allow them in my hour of code. Most of my time was spent researching and Firebase vs Mongo.
+
+**Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
+[Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
