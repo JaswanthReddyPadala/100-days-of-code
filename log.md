@@ -79,3 +79,12 @@
 
 **Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
 [Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
+
+### Day 9: January 7, 2017
+
+**Today's Progress**: Finished Wes Bos' React for Beginners, and started in on the first few videos of his Redux series. Spent the entire hour figuring out why ESLint kept crashing in my project.
+
+**Thoughts**: Killer tutorials again by Wes Bos. I spent a frustrating hour trying to figure out why ESLint was not pulling in the HTML plugin correctly. Still don't have a clear solution, but I did get a nice exercise in googling around and following different troubleshooting methods. I guess you need a few days like that.
+
+**Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
+[Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
