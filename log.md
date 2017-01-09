@@ -88,3 +88,12 @@
 
 **Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
 [Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
+
+### Day 10: January 8, 2017
+
+**Today's Progress**: Finished Wes Bos' Redux series. Spent the entire hour figuring out why ESLint kept crashing in my project. Again.
+
+**Thoughts**: I spent more of the same our trying to figure out ESLint without much progress to show. I finally got to a place where I'm going to leave it for now and try again later. Tomorrow will be real progress!
+
+**Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
+[Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
