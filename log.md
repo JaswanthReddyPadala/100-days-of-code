@@ -106,3 +106,12 @@
 
 **Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
 [Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
+
+### Day 12: January 10, 2017
+
+**Today's Progress**: Hooked MongoDB up for the URL shortener, as well as made the intial pass at trying to create the short URL.
+
+**Thoughts**: I have successfully hooked up a dev DB and a prod DB for my URL Shortening app. I also made a rudimentary shortener. I want to try again tomorrow at making it simpler, using only numbers, and to check to make sure that the short URL has not been used before. I also need to work on the root page usage examples, as well as restructure the code to use a single DB pool.
+
+**Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
+[Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
