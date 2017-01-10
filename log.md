@@ -97,3 +97,12 @@
 
 **Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
 [Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
+
+### Day 11: January 9, 2017
+
+**Today's Progress**: Made forward progress on the URL shortner. Went down the Firebase rabbit hole, but ultimately decided to stick with MongoDB.
+
+**Thoughts**: I have everything scaffolded out so now all that is left is to wire up the different parts. I will work on implementing Mongo tomorrow, and once that's rolling I think it'll be completed soon.
+
+**Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
+[Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
