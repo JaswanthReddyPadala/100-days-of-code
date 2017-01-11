@@ -115,3 +115,12 @@
 
 **Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
 [Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
+
+### Day 13: January 11, 2017
+
+**Today's Progress**: Implemented the redirection request for Yummy URLs.
+
+**Thoughts**: Implemented a redirection handler when someone enters a short code to the Yummy URL service. I don't think I have done it in the most efficient manner but it works. Tomorrow I want to work on edge cases. First, I want to check to make sure the user URL exists before adding it to the database. Then I want to handle situations when a shortcode is generated that already exists in the db.
+
+**Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
+[Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
