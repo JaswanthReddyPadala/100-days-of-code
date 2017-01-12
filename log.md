@@ -124,3 +124,12 @@
 
 **Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
 [Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
+
+### Day 14: January 12, 2017
+
+**Today's Progress**: Started to modularize the Yummy URLs app. Broke redirection.
+
+**Thoughts**: I started by trying to modularize the code. After I figured out how to do that, created a helper file to handle most of my interactions with Mongo. Saving to DB now occurs through this. I still need to implement my check to see if the original URL exists or if the short code already exists. Redirection stopped working before I moved it, so tomorrow will be troubleshooting that.
+
+**Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
+[Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
