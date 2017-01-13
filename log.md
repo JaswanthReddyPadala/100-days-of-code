@@ -133,3 +133,12 @@
 
 **Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
 [Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
+
+### Day 15: January 13, 2017
+
+**Today's Progress**: Fixed the redirection issue. Added more content to the root to detail how to use the app.
+
+**Thoughts**: The redirection issue turned out to be just a type error. Note to self: when you pull props from the req.params object, they come off as strings and need to be converted to numbers if you want to use them as such. That took longer than it should have. To finish the day, I just polished the index.html.
+
+**Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
+[Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
