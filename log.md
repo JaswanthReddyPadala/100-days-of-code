@@ -142,3 +142,12 @@
 
 **Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
 [Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
+
+### Day 16: January 14, 2017
+
+**Today's Progress**: Finishing touches to the URL shortener api.
+
+**Thoughts**: I cleaned up the code quite a bit for my URL shortener app. I might come back to it later to implement a few more safeguard to prevent duplicate URLs. I spent most of the day in the weeds trying to make the asynchronous callbacks play nice, and I decided to move on to a different project tomorrow. I'm going to start building the random quote machine on FCC.
+
+**Link(s) to work**: [Yummy URL](https://yummy-urls.herokuapp.com/)
+[Yummy URL GitHub Repo](https://github.com/maxveldink/fcc-url-shortener)
