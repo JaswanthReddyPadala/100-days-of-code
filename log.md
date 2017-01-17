@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 17, 2017
+
+**Today's Progress**: Worked through some intermediate coding challenges on FreeCodeCamp.
+
+**Thoughts**: Since I didn't want to set out on a full project today, I decided to start working through some of the Intermediate Algorithm challenges on FreeCodeCamp. Finished two, started working on the Roman Numeral challenge. Also did some more code-along with Adam Wathan.
+
+**Link(s) to work**: [TicketBeast](https://github.com/maxveldink/ticketbeast)
+
+### Day 18: January 16, 2017
+
+**Today's Progress**: Today was a hectic day, so I only worked on my TicketBeast app with Adam Wathan.
+
+**Thoughts**: It is very cool to see pure Test Driven development being exemplified by Adam Wathan. Can't wait to watch more of his stuff. I also got halfway through Jeffrey Way's What's New in Laravel 5.3 Series.
+
+**Link(s) to work**: [TicketBeast](https://github.com/maxveldink/ticketbeast)
+
 ### Day 17: January 15, 2017
 
 **Today's Progress**: Redid the 100 Days of Code Log
