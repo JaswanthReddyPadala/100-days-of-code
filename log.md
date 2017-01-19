@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 21: January 19, 2017
+
+**Today's Progress**: Continued work on Roman Numeral problem.
+
+**Thoughts**: Worked on the Roman Numeral problem. Also watched more of Adam Wathan's Test-Driven Laravel.
+
+### Day 20: January 18, 2017
+
+**Today's Progress**: Worked through some intermediate coding challenges on FreeCodeCamp.
+
+**Thoughts**: Worked on the Roman Numeral problem. Also watched more of Adam Wathan's Test-Driven Laravel.
+
 ### Day 19: January 17, 2017
 
 **Today's Progress**: Worked through some intermediate coding challenges on FreeCodeCamp.
